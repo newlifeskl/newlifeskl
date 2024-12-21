@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- My name is Vadim Novoselov
 - 🔭 I’m currently working on own project
 - 🌱 I’m currently learning at the TOP Computer Academy
 - 👯 I’m looking to collaborate on like-minded people
